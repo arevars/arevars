@@ -1,0 +1,9 @@
+li.user{
+    list-style-type:square;
+    margin-left: 20px;   
+}
+
+li.menu{
+  display: inline;
+  margin-left: 20px;
+}
